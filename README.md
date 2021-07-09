@@ -24,3 +24,11 @@ pip install seaborn
 You can read an article about this project in the next link:
 
 https://jcruzcat.medium.com/can-we-predict-clients-churn-an-initial-aproach-to-ds-ce550857c933
+
+
+### Files
+The files used in this notebook are:
+
+Readme.me: Readme of the project.
+telco_churn.csv: Data used on the project.
+Project1_DS_Udacity.ipynb: File with data analysis.
