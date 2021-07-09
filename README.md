@@ -19,3 +19,8 @@ pip install xgboost
 pip install seaborn
 
 ```
+
+### Additional reads
+You can read an article about this project in the next link:
+
+https://jcruzcat.medium.com/can-we-predict-clients-churn-an-initial-aproach-to-ds-ce550857c933
